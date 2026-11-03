@@ -1,0 +1,9 @@
+Historical agent run: 2026-10-22. Sanitized excerpt, not a new run.
+Executor: Codex agent (Раст). Original source SHA-256: 5295343bf90a46730c2ca1da3e5f3ad4ba2d19a0e6df2c5644a83a8e468c8300
+Omitted: other test names, tracebacks, source code, absolute paths.
+
+test_supergroup_never_publishes_synthetic_roster (test_security_regressions.AccessPrivacyNegativeTests.test_supergroup_never_publishes_synthetic_roster) ... ok
+test_private_pending_still_returns_list (test_security_regressions.AccessPrivacyRegressionTests.test_private_pending_still_returns_list) ... ok
+test_config_change_revokes_without_former_start_and_preserves_history (test_security_regressions.CoordinatorRegressionTests.test_config_change_revokes_without_former_start_and_preserves_history) ... ok
+Ran 62 tests in 1.410s
+OK

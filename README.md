@@ -31,6 +31,14 @@ Demonstrated in the public projects below:
 
 ## Selected Projects
 
+### [VetHelp911 — Manual QA Case Study](case-studies/vethelp911/README.md)
+
+Retrospective case study of a veterinary dispatch Telegram bot: manual quick-entry checks, a parser defect and its retest, role verification, and separate agent security evidence. Historical results identify the executor and environment. Unverified coverage is marked NOT RUN. Private source code and customer conversations are excluded.
+
+### [Practicum — Manual QA Foundation](case-studies/practicum/README.md)
+
+Source-based outline from the available manual testing diploma workbook: web checklists, validation design, recorded bug reports, and Android test cases. Recorded workbook statuses are separated from new execution and missing evidence.
+
 ### [Stellar Burgers — Unit Tests](https://github.com/Nellie-ai/stellar-burgers-unit-tests)
 
 Educational unit test suite for a small burger domain model, demonstrating fixtures, parameterized cases, mocks, and coverage measurement.
