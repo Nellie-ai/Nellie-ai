@@ -1,0 +1,83 @@
+{
+  "source": "local final20 workbook; private original retained by owner",
+  "source_sha256": "dfa1beb64905888c1c5b845c0d3c83060ea80ae86fcf578bb62ff037a0b3ed8e",
+  "selected_version": "final20, identified as current by author in historical review request",
+  "final_acceptance_not_independently_verified": true,
+  "sheets": [
+    "Задание 1 чек-лист",
+    "Задание 1 данные валидации",
+    "Задание 1 баги вне тестовой док",
+    "Задание 2 тест-кейсы",
+    "Баг-репорты"
+  ],
+  "checklist": {
+    "unique_scenarios": 45,
+    "status_cells": 90,
+    "recorded_status_by_environment": {
+      "Yandex": {
+        "PASSED": 37,
+        "FAILED": 8
+      },
+      "Chrome": {
+        "PASSED": 36,
+        "FAILED": 9
+      }
+    }
+  },
+  "validation": {
+    "recorded_status_cells": {
+      "PASSED": 61,
+      "FAILED": 10,
+      "N/A": 2
+    }
+  },
+  "bug_reports": {
+    "count": 24,
+    "ids": [
+      "BUG-001",
+      "BUG-002",
+      "BUG-003",
+      "BUG-004",
+      "BUG-005",
+      "BUG-006",
+      "BUG-007",
+      "BUG-008",
+      "BUG-010",
+      "BUG-011",
+      "BUG-012",
+      "BUG-013",
+      "BUG-014",
+      "BUG-015",
+      "BUG-017",
+      "BUG-018",
+      "BUG-019",
+      "BUG-020",
+      "BUG-021",
+      "BUG-022",
+      "BUG-023",
+      "BUG-024",
+      "BUG-025",
+      "BUG-026"
+    ],
+    "status": "recorded historical reports, not re-reproduced"
+  },
+  "mobile": {
+    "case_count": 10,
+    "ids": [
+      "N-01",
+      "N-02",
+      "N-03",
+      "N-04",
+      "N-07",
+      "NET-01",
+      "NET-02",
+      "NET-03",
+      "NET-04",
+      "NET-05"
+    ],
+    "execution": "NOT RUN / execution evidence absent in inspected sheet"
+  },
+  "embedded_images": 0,
+  "api": "NOT RUN / no API sheet in this workbook",
+  "extraction_date": "2026-11-03"
+}

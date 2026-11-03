@@ -1,0 +1,55 @@
+{
+  "compiled_on": "2026-11-03",
+  "timezone": "Europe/Moscow",
+  "originals_public": false,
+  "notice": "Hashes identify inspected private originals. Redacted excerpts are evidence summaries, not independently reproducible production runs.",
+  "records": [
+    {
+      "id": "A01-before",
+      "kind": "historical-agent-test-log",
+      "date": "2026-10-22",
+      "original_sha256": "c612328c9bac305f62e0d02bacc2c07562b2384a2a39702ac9b9638e1d9085da",
+      "published_excerpt": "evidence/A01-before.txt",
+      "scope": "synthetic/offline; no production result"
+    },
+    {
+      "id": "A01-after",
+      "kind": "historical-agent-test-log",
+      "date": "2026-10-22",
+      "original_sha256": "5295343bf90a46730c2ca1da3e5f3ad4ba2d19a0e6df2c5644a83a8e468c8300",
+      "published_excerpt": "evidence/A01-after.txt",
+      "scope": "synthetic/offline; no production result"
+    },
+    {
+      "id": "A02-return-before",
+      "kind": "historical-agent-test-log",
+      "date": "2026-10-22",
+      "original_sha256": "1dd5ebd6efe27ddff360e1557eb7688365e7183d6a326688fe875667aea4c079",
+      "published_excerpt": "evidence/A02-return-before.txt",
+      "scope": "synthetic/offline; no production result"
+    },
+    {
+      "id": "A02-privacy-before",
+      "kind": "historical-agent-test-log",
+      "date": "2026-10-22",
+      "original_sha256": "2b9d4a0da18f95a2113a0dae3393fd9c55ffa131f32ee581b5391c5c439b3dd5",
+      "published_excerpt": "evidence/A02-privacy-before.txt",
+      "scope": "synthetic/offline; no production result"
+    },
+    {
+      "id": "A02-final",
+      "kind": "historical-agent-test-log",
+      "date": "2026-10-22",
+      "original_sha256": "f67ef4d1420f23d99873f993b984fc6c9245393595b2912d8469deed80b68e38",
+      "published_excerpt": "evidence/A02-final.txt",
+      "scope": "synthetic/offline; no production result"
+    },
+    {
+      "id": "A02-manifest",
+      "kind": "historical-verification-manifest",
+      "original_sha256": "c2563e5508dc11915c9887e17b74db3c4e848ce50f3cb522dd58b5e1a92d7b8c",
+      "candidate_archive_sha256": "8129efb9d3fc29bf41215de14fbe765db3dd4dd529d19a8bf89f6548c2e6a43f",
+      "test_log_hash_matches": true
+    }
+  ]
+}
