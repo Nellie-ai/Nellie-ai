@@ -31,7 +31,7 @@ Demonstrated in the public projects below:
 
 ## Selected Projects
 
-### [VetHelp911 — Manual QA Case Study](case-studies/vethelp911/README.md)
+### [Veterinary Dispatch Bot — Manual QA Case Study](case-studies/veterinary-dispatch-bot/README.md)
 
 Retrospective case study of a veterinary dispatch Telegram bot: manual quick-entry checks, a parser defect and its retest, role verification, and separate agent security evidence. Historical results identify the executor and environment. Unverified coverage is marked NOT RUN. Private source code and customer conversations are excluded.
 
