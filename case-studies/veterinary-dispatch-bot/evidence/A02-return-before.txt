@@ -1,5 +1,5 @@
 Historical agent run: 2026-10-22. Sanitized excerpt, not a new run.
-Executor: Codex agent (Раст). Original source SHA-256: 1dd5ebd6efe27ddff360e1557eb7688365e7183d6a326688fe875667aea4c079
+Executor: Codex agent (AI agent). Original source SHA-256: 1dd5ebd6efe27ddff360e1557eb7688365e7183d6a326688fe875667aea4c079
 Omitted: other test names, tracebacks, source code, absolute paths.
 
 test_old_button_cannot_decide_a_later_return_cycle (test_return_decision_binding.ReturnBindingTests.test_old_button_cannot_decide_a_later_return_cycle) ... FAIL

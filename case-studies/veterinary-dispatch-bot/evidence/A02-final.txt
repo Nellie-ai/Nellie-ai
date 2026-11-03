@@ -1,9 +1,11 @@
 Historical agent run: 2026-10-22. Sanitized excerpt, not a new run.
-Executor: Codex agent (Раст). Original source SHA-256: 5295343bf90a46730c2ca1da3e5f3ad4ba2d19a0e6df2c5644a83a8e468c8300
+Executor: Codex agent (AI agent). Original source SHA-256: f67ef4d1420f23d99873f993b984fc6c9245393595b2912d8469deed80b68e38
 Omitted: other test names, tracebacks, source code, absolute paths.
 
+test_old_button_cannot_decide_a_later_return_cycle (test_return_decision_binding.ReturnBindingTests.test_old_button_cannot_decide_a_later_return_cycle) ... ok
+test_old_button_cannot_decide_another_assignment (test_return_decision_binding.ReturnBindingTests.test_old_button_cannot_decide_another_assignment) ... ok
 test_supergroup_never_publishes_synthetic_roster (test_security_regressions.AccessPrivacyNegativeTests.test_supergroup_never_publishes_synthetic_roster) ... ok
 test_private_pending_still_returns_list (test_security_regressions.AccessPrivacyRegressionTests.test_private_pending_still_returns_list) ... ok
 test_config_change_revokes_without_former_start_and_preserves_history (test_security_regressions.CoordinatorRegressionTests.test_config_change_revokes_without_former_start_and_preserves_history) ... ok
-Ran 62 tests in 1.410s
+Ran 122 tests in 3.994s
 OK

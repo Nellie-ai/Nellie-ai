@@ -1,5 +1,5 @@
 Historical agent run: 2026-10-22. Sanitized excerpt, not a new run.
-Executor: Codex agent (Раст). Original source SHA-256: c612328c9bac305f62e0d02bacc2c07562b2384a2a39702ac9b9638e1d9085da
+Executor: Codex agent (AI agent). Original source SHA-256: c612328c9bac305f62e0d02bacc2c07562b2384a2a39702ac9b9638e1d9085da
 Omitted: other test names, tracebacks, source code, absolute paths.
 
 test_supergroup_never_publishes_synthetic_roster (test_security_regressions.AccessPrivacyNegativeTests.test_supergroup_never_publishes_synthetic_roster) ... FAIL
